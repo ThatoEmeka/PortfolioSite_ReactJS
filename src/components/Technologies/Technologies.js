@@ -16,7 +16,7 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Firebase</ListTitle>
           <ListParagraph>
-            I Have experience with Firebase, Firestore, and Cloud Functions.
+            I Have experience with Firebase, Firestore, and Cloud Functions. I have used Firebase for the backend of my projects.
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -26,7 +26,7 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>React</ListTitle>
           <ListParagraph>
-            I Have experience with RaectJS.
+            I Have experience with RaectJS. I have built a variety of small React applications.
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -36,7 +36,7 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Javascript && Typescript</ListTitle>
           <ListParagraph>
-            I Have experience with Firebase, Firestore, and Cloud Functions.
+            I currently use Javascript more than any other languege and i have decent experince with typescript..
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -46,7 +46,7 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>SQLite</ListTitle>
           <ListParagraph>
-            I Have experience with SQLite.
+            I Have experience with SQLite. I have used SQLite for the backend of my academic projects.
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -56,7 +56,7 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Java</ListTitle>
           <ListParagraph>
-            I Have alot of experience using Java.
+            I have alot of academicexperience using Java.
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -66,7 +66,7 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>HTML && CSS</ListTitle>
           <ListParagraph>
-            I have great experince using Html5 and CSS3.
+            I have a great amount of experince using Html5 and CSS3. 
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -76,7 +76,7 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>NodeJS</ListTitle>
           <ListParagraph>
-            I have good experince using NodeJS.
+            I have good experince with Node. 
           </ListParagraph>
         </ListContainer>
       </ListItem>

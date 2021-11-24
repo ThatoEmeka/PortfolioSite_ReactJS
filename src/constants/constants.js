@@ -1,9 +1,9 @@
 export const projects = [
   {
     title: 'NED App',
-    description: "Using React to create a Social Media Application that allows professionals to conncet and share personal projects. Mobile first application.",
+    description: "Using React to create a Social Media Application that allows professionals to conncet and share personal projects. A Mobile first application.",
       image: '/images/NED.jpg',
-      tags: ['React', 'Typescrit', 'Firebase', 'Node'],
+      tags: ['React', 'Typescript', 'Firebase', 'Node'],
     source: 'https://github.com/ThatoEmeka/old-ned', target: "_blank",
     visit: 'https://nedapp.co.za/signin', target: "_blank",
     id: 0,
@@ -21,7 +21,7 @@ export const projects = [
     title: 'Rent-A-Trainer',
     description: " This application was created to allow create a market plcae where trainers could advertise thier skills and be hired by Users.",
       image: '/images/Rent.png',
-      tags: ['Android Studio', 'Java', 'SQL', 'SQLite'],
+      tags: ['Android Studio', 'Java', 'SQL'],
     source: 'https://github.com/ThatoEmeka/Rent-A-Trainer',
     visit: 'https://emekathatonwamadi.netlify.app/',
     id: 2,
