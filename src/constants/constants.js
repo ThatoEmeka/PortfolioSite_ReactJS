@@ -30,7 +30,7 @@ export const projects = [
     title: 'MYBSC',
     description: "This is a school website currently used to advertise the institution and share news about the school. Private repository",
     image: '/images/bsc.png',
-    tags: ['HTML5', 'CSS3', 'FontAwesome'],
+    tags: ['HTML5', 'CSS3', 'FontAwesome', 'Javascript'],
     source: 'https://www.mybrightstartcollege.co.za/',
     visit: 'https://www.mybrightstartcollege.co.za/',
     id: 3,
