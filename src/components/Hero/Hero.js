@@ -15,7 +15,7 @@ const Hero = (props) => (
       <SectionText>
         <Typewriter
           onInit={(typewriter) => {
-            typewriter.typeString('I am Emeka Thato Nwamdi. I am goal driven, focused, able to commit to projects and a great addition to the Sovtech team.').start(); 
+            typewriter.typeString('Hi, I am Emeka Thato Nwamdi, an inspired and passionate developer looking to grow and learn. I know that Sovtech is an environment where I can improve my skills and advance my career.').start(); 
           }}
         />
         
