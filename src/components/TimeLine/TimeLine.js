@@ -46,15 +46,15 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About</SectionTitle>
       <SectionText> 
-      Good day I am not the best at writing about myself nor am i a poet but, I am a highly a motivated Java Developer with
-good experience working in the web development sphere. I have worked on projects where I work
-completely on front end development and others where I was in charge of the database infrastructure
-and development. I pride myself in my ability to adapt and learn skills quickly and I believe it is part of my
-inquisitive nature to absorb information and make sense of that information timeously.
-I have an aptitude for Agile Methodologies and development as well and the propensity to go the extra
-mile to ensure that my work is done to the best of my ability. I am goal driven, focused and able to
-commit projects allocated to me no matter the size or difficulty. I hope this introductory paragraph about
-me find you well and that you will be impressed when meeting me in person.
+      Good day I'm not the best at writing about myself, nor am I a poet, but I'm a highly motivated Java Developer with extensive experience in the web development field.
+I have worked on projects where I worked completely
+on front-end development and others where I was in charge of the database infrastructure and
+development. I pride myself on my ability to adapt and learn skills quickly, and I believe it is part of my inquisitive
+nature to absorb information and make sense of that information timeously.
+I have an aptitude for Agile methodologies and development as well as the propensity to go the extra mile
+to ensure that my work is done to the best of my ability. I am goal-driven, focused and able to commit to
+projects allocated to me no matter the size or difficulty. I hope this introductory paragraph about me finds
+you well and that you will be impressed when meeting me in person.
       </SectionText>
 
       
