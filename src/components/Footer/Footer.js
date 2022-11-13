@@ -1,8 +1,23 @@
-import React from 'react';
-import { AiFillGithub, AiFillInstagram, AiFillLinkedin, AiFillYoutube } from 'react-icons/ai';
+import React from "react";
+import {
+  AiFillGithub,
+  AiFillInstagram,
+  AiFillLinkedin,
+  AiFillYoutube,
+} from "react-icons/ai";
 
-import { SocialIcons } from '../Header/HeaderStyles';
-import { CompanyContainer, FooterWrapper, LinkColumn, LinkItem, LinkList, LinkTitle, Slogan, SocialContainer, SocialIconsContainer } from './FooterStyles';
+import { SocialIcons } from "../Header/HeaderStyles";
+import {
+  CompanyContainer,
+  FooterWrapper,
+  LinkColumn,
+  LinkItem,
+  LinkList,
+  LinkTitle,
+  Slogan,
+  SocialContainer,
+  SocialIconsContainer,
+} from "./FooterStyles";
 
 const Footer = () => {
   return (
@@ -14,28 +29,27 @@ const Footer = () => {
         </LinkColumn>
         <LinkColumn>
           <LinkTitle>Email</LinkTitle>
-          <LinkItem href="mailto:thatonwamdi@gmail.com">thatonwamdi@gmail</LinkItem>
+          <LinkItem href="mailto:thatonwamadi@gmail.com">
+            thatonwamadi@gmail
+          </LinkItem>
         </LinkColumn>
       </LinkList>
 
-    <SocialIconsContainer>
+      <SocialIconsContainer>
         <CompanyContainer>Certified Blitz Boy</CompanyContainer>
 
-      <SocialContainer>
-        <SocialIcons href="https://github.com/ThatoEmeka">
-        <AiFillGithub size="3rem" />
-      </SocialIcons>
-      <SocialIcons href="https://www.linkedin.com/in/thato-nwamadi-991623189/">
-        <AiFillLinkedin size="3rem" />
-      </SocialIcons>
-      <SocialIcons href="https://www.youtube.com/watch?v=KNolO8B7XFY">
-        <AiFillYoutube size="3rem" />
-      </SocialIcons>
-      </SocialContainer>
-
-    </SocialIconsContainer>
-      
-
+        <SocialContainer>
+          <SocialIcons href="https://github.com/ThatoEmeka">
+            <AiFillGithub size="3rem" />
+          </SocialIcons>
+          <SocialIcons href="https://www.linkedin.com/in/thato-nwamadi-991623189/">
+            <AiFillLinkedin size="3rem" />
+          </SocialIcons>
+          <SocialIcons href="https://www.youtube.com/watch?v=KNolO8B7XFY">
+            <AiFillYoutube size="3rem" />
+          </SocialIcons>
+        </SocialContainer>
+      </SocialIconsContainer>
     </FooterWrapper>
   );
 };
