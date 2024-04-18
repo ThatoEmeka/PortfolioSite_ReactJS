@@ -14,14 +14,14 @@ const Hero = (props) => (
     <LeftSection>
       <SectionTitle>
         Welcome To <br />
-        My ReactJS Portfolio Site
+        My Portfolio Site
       </SectionTitle>
       <SectionText>
         <Typewriter
           onInit={(typewriter) => {
             typewriter
               .typeString(
-                "Hi ! I am Emeka Thato Nwamadi. A inspired and passionate javascript developer."
+                "Hi ! I am Emeka Thato Nwamadi. A inspired and passionate Software Engineer."
               )
               .start();
           }}

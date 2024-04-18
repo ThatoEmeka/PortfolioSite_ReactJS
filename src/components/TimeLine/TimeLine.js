@@ -46,15 +46,7 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About</SectionTitle>
       <SectionText> 
-      Good day I'm not the best at writing about myself, nor am I a poet, but I'm a highly motivated Java Developer with extensive experience in the web development field.
-I have worked on projects where I worked completely
-on front-end development and others where I was in charge of the database infrastructure and
-development. I pride myself on my ability to adapt and learn skills quickly, and I believe it is part of my inquisitive
-nature to absorb information and make sense of that information timeously.
-I have an aptitude for Agile methodologies and development as well as the propensity to go the extra mile
-to ensure that my work is done to the best of my ability. I am goal-driven, focused and able to commit to
-projects allocated to me no matter the size or difficulty. I hope this introductory paragraph about me finds
-you well and that you will be impressed when meeting me in person.
+      I'm a seasoned developer with a passion for crafting scalable, user-centric experiences.  My JavaScript and TypeScript expertise drives the creation of dynamic and responsive front-ends.  Backed by 4+ years of Java experience, I confidently architect robust back-ends and integrate seamlessly with AWS cloud solutions.  I'm adaptable, thrive in Agile environments, and always eager to expand my knowledge. Let's discuss how I can elevate your next project
       </SectionText>
 
       

@@ -25,18 +25,18 @@ const Footer = () => {
       <LinkList>
         <LinkColumn>
           <LinkTitle>Call</LinkTitle>
-          <LinkItem href="tel:(+27) 83-282-2239">083-282-2239</LinkItem>
+          <LinkItem href="tel:(+27) 69-471-4292">069-471-4292</LinkItem>
         </LinkColumn>
         <LinkColumn>
           <LinkTitle>Email</LinkTitle>
-          <LinkItem href="mailto:thatonwamadi@gmail.com">
-            thatonwamadi@gmail
+          <LinkItem href="mailto:thato@inevitabletech.co.za">
+            thato@inevitabletech.co.za
           </LinkItem>
         </LinkColumn>
       </LinkList>
 
       <SocialIconsContainer>
-        <CompanyContainer>Certified Blitz Boy</CompanyContainer>
+        <CompanyContainer>Certified Cyber Security Guru</CompanyContainer>
 
         <SocialContainer>
           <SocialIcons href="https://github.com/ThatoEmeka">

@@ -29,16 +29,15 @@ const Technologies = () => (
     <SectionDivider />
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
-      I have experience working with the following technologies:
+      My expertise spans a variety of technologies, including these highlights:
     </SectionText>
     <List>
       <ListItem>
         <DiFirebase size="3rem" />
         <ListContainer>
-          <ListTitle>Firebase</ListTitle>
+          <ListTitle>AWS && Firebase</ListTitle>
           <ListParagraph>
-            I Have experience with Firebase, Firestore, and Cloud Functions. I
-            have used Firebase for the backend of my projects.
+            DevOps Pro skilled in CI/CD automation, infrastructure as code (IaC), and containerization on Firebase, AWS, and more
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -48,8 +47,7 @@ const Technologies = () => (
         <ListContainer>
           <ListTitle>React</ListTitle>
           <ListParagraph>
-            I Have experience with RaectJS. I have built a variety of small
-            React applications.
+          I'm a ReactJS developer passionate about creating engaging web and native applications
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -59,8 +57,7 @@ const Technologies = () => (
         <ListContainer>
           <ListTitle>Javascript && Typescript</ListTitle>
           <ListParagraph>
-            I currently use Javascript more than any other language and i have
-            decent experience with typescript..
+          A seasoned JavaScript developer with 5+ years of experience, I've built numerous projects using both JavaScript and TypeScript
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -68,10 +65,9 @@ const Technologies = () => (
       <ListItem>
         <DiSqllite size="3rem" />
         <ListContainer>
-          <ListTitle>SQLite</ListTitle>
+          <ListTitle>SQL</ListTitle>
           <ListParagraph>
-            I Have experience with SQLite. I have used SQLite for the backend of
-            my academic projects.
+          Experienced with database design and integration, having built multiple projects with SQL backends
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -81,7 +77,7 @@ const Technologies = () => (
         <ListContainer>
           <ListTitle>Java</ListTitle>
           <ListParagraph>
-            I have a lot of academic experience using Java.
+          Proficient in Java with 4 years of experience, including expertise in Spring Framework and REST API development
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -91,7 +87,7 @@ const Technologies = () => (
         <ListContainer>
           <ListTitle>HTML && CSS</ListTitle>
           <ListParagraph>
-            I have a great amount of experience using Html5 and CSS3.
+          Front-end expert with deep HTML5 and CSS3 proficiency, including advanced techniques like CSS Grid, Flexbox, and responsive design
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -100,7 +96,7 @@ const Technologies = () => (
         <DiNodejs size="3rem" />
         <ListContainer>
           <ListTitle>NodeJS</ListTitle>
-          <ListParagraph>I have good experience with Node.</ListParagraph>
+          <ListParagraph>Experienced Node.js developer well-versed in popular libraries and frameworks (Express, MongoDB, etc.)</ListParagraph>
         </ListContainer>
       </ListItem>
 
@@ -109,8 +105,7 @@ const Technologies = () => (
         <ListContainer>
           <ListTitle>UI/UX</ListTitle>
           <ListParagraph>
-            I have experience prototyping software like photoshop, adobeXD and
-            Figma.
+          UI/UX design enthusiast with experience using industry-leading tools like Photoshop, Adobe XD, and Figma to bring ideas to life
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -120,8 +115,7 @@ const Technologies = () => (
         <ListContainer>
           <ListTitle>C#</ListTitle>
           <ListParagraph>
-            I have experience with C#. I have created full stack client
-            applications using C#.
+          Experienced C# developer with a focus on building full-stack .NET applications
           </ListParagraph>
         </ListContainer>
       </ListItem>
